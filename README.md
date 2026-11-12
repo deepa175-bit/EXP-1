@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Deepalakshmi S | **Reg. No.:** |26014071 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |12-11-2026 | **Batch / Section:** | 260DJ084|
 
 ---
 
@@ -70,13 +70,13 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 ### A. KVL simulation
 
-*[ Paste the Proteus KVL simulation screenshot here ]*
+* <img width="1211" height="727" alt="Screenshot 2026-11-12 155214" src="https://github.com/user-attachments/assets/54b9fc73-5cab-4804-98a6-725fbfa0d993" />*
 
 **Figure 3:** Proteus simulation of KVL circuit
 
 ### B. KCL simulation
 
-*[ Paste the Proteus KCL simulation screenshot here ]*
+* <img width="925" height="560" alt="Screenshot 2026-10-15 154045" src="https://github.com/user-attachments/assets/a1c67c4d-702a-4d44-8a3e-ddbc912f472e" />*
 
 **Figure 4:** Proteus simulation of KCL circuit
 
@@ -86,21 +86,17 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 | S. No. | Supply voltage Vs (V) | VR1 (V) | VR2 (V) | VR3 (V) | VR1 + VR2 + VR3 (V) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 |100 |16.68V |27.8V |55.6V |100.05 |
+| 2 |100 |16.7V |27.8V |55.6V |100.1 |
+
 
 ### B. KCL – Current measurements
 
-| S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | I1 + I2 + I3 (A) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
+| S. No. | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | V(A) |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 |-1.48A |1.85A |0.56A |52.63V | 
+| 2 |1.58A |1.05A |0.53A |52.6V | 
+
 
 ## CALCULATIONS
 
