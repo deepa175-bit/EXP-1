@@ -2,7 +2,7 @@
 
 | **Name:** |Deepalakshmi S | **Reg. No.:** |26014071 |
 |---|---|---|---|
-| **Date:** |12-11-2026 | **Batch / Section:** | 260DJ084|
+| **Date:** |13-11-2026 | **Batch / Section:** | 26ODJ084|
 
 ---
 
@@ -54,13 +54,15 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 
 ### A. KVL circuit diagram
 
-*[ Insert the KVL circuit diagram here ]*
+<img width="1025" height="1280" alt="KVL CIRCUIT" src="https://github.com/user-attachments/assets/e74e9c1a-154a-4ff4-ad77-6540e27b67c7" />
+
 
 **Figure 1:** KVL verification circuit
 
 ### B. KCL circuit diagram
 
-*[ Insert the KCL circuit diagram here ]*
+<img width="1036" height="1280" alt="KCL CIRCUIT" src="https://github.com/user-attachments/assets/828c20c4-4495-4e72-8f24-659c36be0bf9" />
+
 
 **Figure 2:** KCL verification circuit
 
@@ -106,7 +108,8 @@ According to KVL, **Vs = VR1 + VR2 + VR3**.
 
 Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
 
-*[ Paste the KVL calculation screenshot here ]*
+<img width="1200" height="1600" alt="KVL CALCULATION" src="https://github.com/user-attachments/assets/14e188b2-34ef-4a78-a4c6-119a4daf8dfd" />
+
 
 **Figure 5:** KVL calculation
 
@@ -116,7 +119,8 @@ According to KCL, **It = I1 + I2 + I3**.
 
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
-*[ Paste the KCL calculation screenshot here ]*
+<img width="1600" height="1367" alt="KCL CALCULATION" src="https://github.com/user-attachments/assets/9f29ad1c-d5b1-4dc0-8686-5e992fe12ba1" />
+
 
 **Figure 6:** KCL calculation
 
